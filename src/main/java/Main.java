@@ -28,7 +28,7 @@ public class Main {
         } catch (FileNotFoundException e) {
             System.out.println("No data this day");
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("No data this day");
         }
     }
 }
