@@ -1,0 +1,2 @@
+http://api.nbp.pl/api/cenyzlota/2020-08-18?format=json
+http://api.nbp.pl/api/cenyzlota/?format=json
